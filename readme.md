@@ -1,1 +1,1 @@
-![](Cheremsha_OOP\data\dont_open\image.png)
+![](data\dont_open\image.png)
